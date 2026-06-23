@@ -22,34 +22,40 @@
 
 ## 📌 Featured Projects
 
-### 1. SQL Data Job Analysis
-Analyzed data-related job postings to understand demand for skills, salaries, and job titles.
 
-**Skills:** SQL, data cleaning, exploratory analysis  
-**Repo:** [SQL_Project_Data_Job_Analysis](https://github.com/mugheeskhan00/SQL_Project_Data_Job_Analysis)
-
----
-
-### 2. Enrollment Forecasting
+### 1. Enrollment Forecasting
 Coming soon — forecasting student enrollment trends using time series and machine learning.
 
 **Skills:** forecasting, feature engineering, model evaluation
 
 ---
 
-### 3. A/B Testing & Experimentation
-Coming soon — statistical testing and business recommendation framework for campaign performance.
-
-**Skills:** hypothesis testing, confidence intervals, experiment design
-
----
-
-### 4. Student Success Prediction
+### 2. Student Success Prediction
 Coming soon — classification model to identify students at risk of non-persistence.
 
 **Skills:** logistic regression, tree-based models, SHAP, imbalanced classification
 
 ---
+
+### 3. A/B Testing and Experimentation
+Coming soon — classification model to identify students at risk of non-persistence.
+
+**Skills:** hypothesis, statistical tests, power calculations, recommendations
+
+---
+
+### 4. Recommender System
+Coming soon — which colleges should be recommended to students?
+
+**Skills:** hypothesis, statistical tests, power calculations, recommendations
+
+---
+
+### 5. LLM Analytics Assistant
+Coming soon — Natural language to SQL and Dashboard
+
+**Skills:** OpenAI API, LangChain/LlamaIndex, SQL, Streamlit
+
 
 ## 🎯 Career Focus
 
