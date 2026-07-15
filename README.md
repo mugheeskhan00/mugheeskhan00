@@ -23,7 +23,7 @@
 ## 📌 Featured Projects
 
 
-### 1. Enrollment Forecasting
+### 1. Higher Education Enrollment Projections
 Coming soon — forecasting student enrollment trends using time series and machine learning.
 
 **Skills:** forecasting, feature engineering, model evaluation
