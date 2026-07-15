@@ -38,7 +38,7 @@ Coming soon — classification model to identify students at risk of non-persist
 ---
 
 ### 3. A/B Testing and Experimentation
-Coming soon — classification model to identify students at risk of non-persistence.
+
 
 **Skills:** hypothesis, statistical tests, power calculations, recommendations
 
