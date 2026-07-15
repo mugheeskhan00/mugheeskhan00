@@ -1,6 +1,6 @@
 # Hi there, I'm Mughees Khan 👋
 
-## I'm an analytics professional at Encoura and Georgia Tech OMSA student.
+## I'm an analytics professional at Encoura and a Georgia Tech MS in Analytics student.
 
 - 🎓 M.S. Analytics, Georgia Institute of Technology — coursework complete, practicum remaining
 - 💼 Analytics experience in higher education and enrollment data
