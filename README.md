@@ -24,9 +24,9 @@
 
 
 ### 1. Higher Education Enrollment Projections
-Coming soon — forecasting student enrollment trends using time series and machine learning.
+Competitive tier peer selection approach which systematically chooses a defensible enrollment projection
 
-**Skills:** forecasting, feature engineering, model evaluation
+**Skills:** reproducible data pipelines, python and pandas, multi-source data integration, longitudinal feature engineering, tiered business-rule modeling
 
 ---
 
